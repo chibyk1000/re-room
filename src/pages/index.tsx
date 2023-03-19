@@ -123,9 +123,8 @@ export default function Home() {
       <li><Link href="" className='hover:underline'>Create Account</Link></li>
 
       <li><Link href="" className='hover:underline'>  Login</Link></li>
-      <li><Link href="" className='hover:underline'>  AccoUNT Recovery</Link></li>
-  
-      <li>Follow us<Link href="" className='hover:underline'><FacebookTwoTone/> </Link> <Link href=''><Instagram/></Link><Link href=''> <Twitter/></Link></li>
+      <li><Link href="" className='hover:underline'>  Account Recovery</Link></li>
+
 
 
 
