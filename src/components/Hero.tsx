@@ -1,6 +1,6 @@
-import { AccountCircle, LocationSearching, Search } from '@mui/icons-material'
-import { FormControl, Input, InputAdornment, InputLabel } from '@mui/material'
-import React from 'react'
+import {  Search } from '@mui/icons-material'
+
+
 
 const Hero = () => {
   return (
