@@ -11,7 +11,7 @@ const Navbar = ()=>{
                 <li><Link href='' className="hover:bg-dark-blue  hover:text-milk py-4 px-2">HOME</Link></li>
                 <li><Link href='' className="hover:bg-dark-blue  hover:text-milk py-4 px-2">ABOUT US</Link></li>
                 <li><Link href='' className="hover:bg-dark-blue  hover:text-milk py-4 px-2 ">RESERVATIONS</Link></li>
-                <li className="ml-auto" ><Link href='' className=" bg-dark-blue text-milk py-3 px-3 rounded focus:outline-1">Register</Link></li>
+                <li className="ml-auto" ><Link href='/register' className=" bg-dark-blue text-milk py-3 px-3 rounded focus:outline-1">Register</Link></li>
                 <li><Link href=''>Login</Link></li> 
 
 

@@ -13,6 +13,16 @@ input[type="radio"] {
   input[type="radio"]:checked{
 background-color: red
   }
+
+  /* .mydate fieldset.MuiOutlinedInput-notchedOutline {
+    border-color: green;
+  } */
+  
+  .mydate .Mui-focused fieldset.MuiOutlinedInput-notchedOutline {
+    border-color: grey;
+    border-width: 1px;
+  }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
